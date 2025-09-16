@@ -6,7 +6,7 @@ GitHub = Online platform to store Git project
 
 
 COMMON SHAPES AND THEIR MEANINGS
-
+---------------------------------
 1.Rectangle -> Process/Task
 2.Diamond ->Decision
 3.Document shape -> Document
@@ -15,4 +15,5 @@ COMMON SHAPES AND THEIR MEANINGS
 6.Cloud Shape -> Cloud/Internet
 7.Arrous -> Connector
 8.Oval / Ellipse -> Start/End
+
 9.Parallelogram ->Input/Output
