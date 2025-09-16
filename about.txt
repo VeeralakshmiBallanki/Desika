@@ -1,0 +1,5 @@
+Name:VeeralakshmiBallanki
+Course:BSc(computers)
+
+
+GitHub is used to upload the files in the repository.
